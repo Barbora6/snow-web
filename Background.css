@@ -1,0 +1,31 @@
+.container-home {
+  text-align: center;
+  height: 100vh;
+  background-color: rgb(163, 204, 240);
+  background-image: url("../../images/lyzovani.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wrapper-home {
+  width: 850px;
+  height: 150px;
+  color: white;
+  padding: 20px 55px;
+}
+
+.wrapper-home h1 {
+  font-size: 68px;
+}
+
+.wrapper-home p {
+  font-size: 36px;
+}
+
+.btn-left,
+.btn-right {
+  font-size: 48px;
+  color: rgb(170, 237, 44);
+  border: none;
+  background-color: transparent;
+}

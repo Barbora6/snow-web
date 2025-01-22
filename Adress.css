@@ -1,0 +1,27 @@
+.container-adress {
+  width: 80%;
+  margin: 30px auto;
+  background-color: gainsboro;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  color: gray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 2;
+}
+.wrapper-adress {
+  width: 850px;
+}
+
+.container-adress h3 {
+  font-size: 48px;
+}
+
+.wrapper-adress,
+.wrapper-ic,
+.wrapper-email {
+  font-size: 24px;
+  width: 350px;
+}

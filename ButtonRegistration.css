@@ -1,0 +1,11 @@
+.btn-registration {
+  width: 300px;
+  height: 60px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  letter-spacing: 2;
+  font-size: 24px;
+  margin-left: 190px;
+}

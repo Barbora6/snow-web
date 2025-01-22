@@ -1,0 +1,54 @@
+.container-map {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  color: gray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 2;
+}
+
+img {
+  width: 100%;
+}
+.map-wrapper img {
+  width: 850px;
+  height: 550px;
+}
+
+.description-1-wrapper {
+  width: 550px;
+  padding: 30px;
+}
+
+.description-1-wrapper p {
+  font-size: 24px;
+}
+
+.description-1-wrapper h3 {
+  font-size: 48px;
+}
+
+.picture-wrapper img {
+  width: 500px;
+  height: 650px;
+}
+
+.description-2-wrapper {
+  width: 850px;
+}
+
+.description-2-wrapper h3 {
+  font-size: 48px;
+}
+
+.description-2-wrapper p {
+  font-size: 24px;
+}
+
+.description-2-wrapper span {
+  font-size: 24px;
+  color: red;
+}
